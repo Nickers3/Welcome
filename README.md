@@ -19,7 +19,7 @@
 > Click the Create Repository button<br>
 ***
 
-### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki/Project-README-template)
+### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki/Project-README.md-file-template)
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
 After you copy and paste the template into your Project's README.md file be sure to do the following:
