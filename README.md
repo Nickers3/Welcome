@@ -5,13 +5,13 @@
 ### Step 1: Create your project Repository.
 > A project repository is your Sprint projects' home. It's a place where all of your project files (documentation, user-stories, code, etc.) will live so that others in the open source community (including Salesforce.org) can have open access to all your work in order to track progress. A repository has the added benefit of allowing future contributors to continue the work started at this Sprint.
 
-1. Navigate to https://github.com/SFDO-Sprint-2019-Amsterdam (right click this URL and open a new page)
+1. Navigate to https://github.com/SFDO-Sprint-2019-Detroit (right click this URL and open a new page)
 2. Click the New button (Green button)
 3. From the Create a new repository page fill in the requested information
 
 > __Here is an Example:__<br><br>
 > __Repository name:__ Admin Soft Skills<br>
-> __Description:__ Salesforce Administrators have the technical skill set to perform the functions of an administrator but many entering the Salesforce.org community lack the soft skills set required to be a successful and impactful administrator. This skills gap within the administrator community is bad for nonprofits, higher ed, partners and the community at large. <br>
+> __Description:__ Develop standardized Salesforce System Administrator and Business Analyst job descriptions<br>
 > __Public Repo__ = true<br>
 > __Initialize this repository with a README__ = true<br>
 > __Add .gitignore: None__ (leave this as is)<br>
@@ -19,7 +19,7 @@
 > Click the Create Repository button<br>
 ***
 
-### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Amsterdam/Welcome/wiki/Project-README-template)
+### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki/Project-README-template)
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
 After you copy and paste the template into your Project's README.md file be sure to do the following:
@@ -51,4 +51,4 @@ Doing so ensures that anyone reviewing your project repositiory (during or after
 6. Click Commit new file
 ***
 
-## We've also included resources in the [Wiki](https://github.com/SFDO-Sprint-2019-Amsterdam/Welcome/wiki) to help you along the way!
+## We've also included resources in the [Wiki](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki) to help you along the way!
