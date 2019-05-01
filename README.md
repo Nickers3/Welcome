@@ -16,8 +16,9 @@
 > __Initialize this repository with a README__ = true<br>
 > __Add .gitignore: None__ (leave this as is)<br>
 > __Add a license__ = BSD 3-Clause "New" or "Revised" License <br>
-> Click the Create Repository button<br>
 ***
+4. Click the Create Repository button<br>
+
 
 ### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki/Project-README.md-file-template)
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
