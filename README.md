@@ -39,7 +39,7 @@ Doing so ensures that anyone reviewing your project repositiory (during or after
 ***
 
 ### Step 3: Create a Directory folder in your project Repository to house any documentation generated during the Sprint.
-1. From your Project's README.md file click on Create new file
+1. From your Project's repository click on Create new file
 2. Type in the name of the Directory you want to create follwed by a slash (/) follwed by the name of the file that will identify what types of information will be housed here
 > __Here is an Example:__<br>
 > Documentation/Project Documentation
