@@ -16,7 +16,7 @@
 > __Initialize this repository with a README__ = true<br>
 > __Add .gitignore: None__ (leave this as is)<br>
 > __Add a license__ = BSD 3-Clause "New" or "Revised" License <br>
-***
+
 4. Click the Create Repository button<br>
 
 
